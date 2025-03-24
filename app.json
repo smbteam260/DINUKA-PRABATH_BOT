@@ -6,22 +6,22 @@
   "success_url": "/",
 
   "env": {
-    "BOT_NUMBER": {
+    "BOT_NUMBER": { +94 78442 9532
       "description": "Put the number here.",
       "required": true
     },  
 
-    "PASSWORD": {
+    "PASSWORD": { mani8021#
       "description": "Enter a password of your choice here",
       "required": true
     },
 
-    "SESSION_ID": {
+    "SESSION_ID": { PRABATH-MD~XChj1bZD#rcZbJamXkmSfausX3fibS0LyQ6SF_Vj1IumBzGzvMRs
       "description": "Enter session-id here",
       "required": false
     },
     
-    "GITHUB_USERNAME": {
+    "GITHUB_USERNAME": { 
       "description": "Put your github username here.",
       "required": true
     },
